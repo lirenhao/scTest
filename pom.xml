@@ -28,13 +28,11 @@
 
     <distributionManagement>
         <repository>
-            <id>yd</id>
-            <name>maven-releases</name>
+            <id>yada</id>
             <url>http://10.2.54.234:8088/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>yada</id>
-            <name>maven</name>
             <url>http://10.2.54.234:8088/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
