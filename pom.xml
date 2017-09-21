@@ -4,7 +4,7 @@
 
     <groupId>com.yada</groupId>
     <artifactId>scTest</artifactId>
-    <version>1.13-SNAPSHOT</version>
+    <version>1.12-SNAPSHOT</version>
 
     <scm>
         <!-- <connection>scm:git:https://github.com/lirenhao/scTest.git</connection> -->
@@ -31,7 +31,10 @@
             <id>yada</id>
             <url>http://10.2.54.234:8088/repository/maven-releases/</url>
         </repository>
-        
+        <snapshotRepository>
+            <id>yada</id>
+            <url>http://10.2.54.234:8088/repository/maven-snapshots/</url>
+        </snapshotRepository>
     </distributionManagement>
 
     <build>
