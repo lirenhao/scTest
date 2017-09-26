@@ -2,14 +2,15 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+    <packaging>jar</packaging>
     <groupId>com.yada</groupId>
     <artifactId>scTest</artifactId>
-    <version>1.18-SNAPSHOT</version>
+    <version>1.20-SNAPSHOT</version>
 
     <scm>
-        <!-- <connection>scm:git:https://github.com/lirenhao/scTest.git</connection> -->
+        <connection>scm:git:https://github.com/lirenhao/scTest.git</connection>
         <developerConnection>scm:git:https://github.com/lirenhao/scTest.git</developerConnection>
-        <!-- <url>https://github.com/lirenhao/scTest/tree/master</url> -->
+        <url>https://github.com/lirenhao/scTest/tree/master</url>
       <tag>HEAD</tag>
   </scm>
 
