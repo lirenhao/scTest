@@ -5,13 +5,13 @@
     <packaging>jar</packaging>
     <groupId>com.yada</groupId>
     <artifactId>scTest</artifactId>
-    <version>1.21</version>
+    <version>1.22-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:https://github.com/lirenhao/scTest.git</connection>
         <developerConnection>scm:git:https://github.com/lirenhao/scTest.git</developerConnection>
         <url>https://github.com/lirenhao/scTest/tree/master</url>
-      <tag>v1.21</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <dependencies>
