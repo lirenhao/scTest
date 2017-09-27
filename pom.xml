@@ -32,10 +32,10 @@
             <id>yada</id>
             <url>http://10.2.54.234:8088/repository/maven-releases/</url>
         </repository>
-        <!-- <snapshotRepository>
+        <snapshotRepository>
             <id>yada</id>
             <url>http://10.2.54.234:8088/repository/maven-snapshots/</url>
-        </snapshotRepository> -->
+        </snapshotRepository>
     </distributionManagement>
 
     <build>
