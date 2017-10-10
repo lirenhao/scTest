@@ -11,7 +11,7 @@
         <connection>scm:git:https://github.com/lirenhao/scTest.git</connection>
         <developerConnection>scm:git:https://github.com/lirenhao/scTest.git</developerConnection>
         <url>https://github.com/lirenhao/scTest/tree/master</url>
-      <tag>HEAD</tag>
+      <tag>test1</tag>
   </scm>
 
     <dependencies>
