@@ -5,13 +5,13 @@
     <packaging>jar</packaging>
     <groupId>com.yada</groupId>
     <artifactId>scTest</artifactId>
-    <version>1.27-SNAPSHOT</version>
+    <version>1.27</version>
 
     <scm>
         <connection>scm:git:https://github.com/lirenhao/scTest.git</connection>
         <developerConnection>scm:git:https://github.com/lirenhao/scTest.git</developerConnection>
         <url>https://github.com/lirenhao/scTest/tree/master</url>
-      <tag>HEAD</tag>
+      <tag>scTest-1.27</tag>
   </scm>
 
     <dependencies>
@@ -28,10 +28,10 @@
     </dependencies>
 
     <distributionManagement>
-        <repository>
+        <!-- <repository>
             <id>yada</id>
             <url>http://10.2.54.234:8088/repository/maven-releases/</url>
-        </repository>
+        </repository> -->
         <snapshotRepository>
             <id>yada</id>
             <url>http://10.2.54.234:8088/repository/maven-snapshots/</url>
